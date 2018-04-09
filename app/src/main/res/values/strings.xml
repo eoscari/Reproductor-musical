@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Reproductor</string>
+    <string name="action_settings">Configuración</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="err_msg_name">Ingrese su nombre</string>
+    <string name="err_msg_email">Ingrese su email</string>
+    <string name="err_msg_password">Ingrese contraseña</string>
+</resources>
